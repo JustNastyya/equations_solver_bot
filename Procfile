@@ -1,2 +1,2 @@
-Ofrun: python nice Gorner version.py $PORT
+Ofrun: python niceGornerVersion.py $PORT
 running: python config.py $PORT
